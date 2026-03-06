@@ -43,9 +43,9 @@ As assinaturas podem ser gerenciadas nas configurações da sua conta Apple ID o
 ---
 
 ### How do I delete my account?
-Please send a request to support@seuapp.com with the subject "Delete Account".
+Please send a request to kuyaapps.contact@gmail.com with the subject "Delete Account".
 
-Envie uma solicitação para support@seuapp.com com o assunto "Excluir Conta".
+Envie uma solicitação para kuyaapps.contact@gmail.com com o assunto "Excluir Conta".
 
 ---
 
@@ -66,4 +66,5 @@ Você pode ler nossa política de privacidade aqui:
 
 
 © 2026 NEXRC. All rights reserved.
+
 
